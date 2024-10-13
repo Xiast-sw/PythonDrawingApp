@@ -10,3 +10,6 @@ Bu proje, Python ve Tkinter kullanarak basit bir paint uygulaması geliştirmek 
 - **Serbest Çizim**: Kullanıcı, fare ile serbest olarak çizim yapabilir.
 - **Silgi**: Kullanıcı, silgi aracı ile çizimlerini silebilir.
 - **Temizleme Butonu**: Canvas'ı temizlemek için buton.
+
+##Katkıda Bulunanlar
+ ***Adil Buğra AYTAR***
