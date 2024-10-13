@@ -13,3 +13,7 @@ Bu proje, Python ve Tkinter kullanarak basit bir paint uygulaması geliştirmek 
 
 ## Katkıda Bulunanlar
  ***Adil Buğra AYTAR***
+
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Bu lisans, kullanıcıların yazılımı kullanmalarına, değiştirmelerine ve dağıtmalarına izin verir. Ancak, orijinal lisans ve telif hakkı bildirimlerinin korunması gerekmektedir.
