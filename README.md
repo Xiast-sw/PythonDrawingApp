@@ -10,4 +10,5 @@ This project is created to develop a simple paint application using Python and T
 - Eraser: Users can erase their drawings with the eraser tool.
 - Clear Button: A button to clear the canvas.
 
-## 
+## Contributors
+***Adil Buğra AYTAR***
