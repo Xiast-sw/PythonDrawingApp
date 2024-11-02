@@ -1,6 +1,6 @@
 # Python Paint Application
-Bu proje, Python ve Tkinter kullanarak basit bir paint uygulaması geliştirmek amacıyla oluşturulmuştur. Kullanıcıların çizim yapabilmesi için çeşitli araçlar ve özellikler içermektedir.
 
+This project is created to develop a simple paint application using Python and Tkinter. It includes various tools and features for users to draw.
 
 ## Özellikler
 
